@@ -67,6 +67,13 @@ h2 {
     color: white;
 }
 
+#student {
+    border: 2px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: white;
+    margin-bottom: 10px;
+}
+
 /* Navbar */
 
 #navbar {
